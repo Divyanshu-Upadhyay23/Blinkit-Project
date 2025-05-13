@@ -4,4 +4,4 @@ After select Insert option from Heading I have select Shapes option in which Rou
 Home Option inside that Calculations section in New Measure, I have created Total Sales, Average, No of Items & Avg Rating.
 In Visualizations, Format your visual option inside Card I have selected Accent Card, Images which are use for Different options
 After that through Visualizations, I have used different Charts to show different relations between Columns
-I have used Metrices Card to show different table values together.
+I have used Metrices Card to show different table values together
